@@ -1,48 +1,32 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike-Sharing
+> BoomBikes, a bike-sharing provider, is facing revenue loss due to the pandemic. They aim to boost post-lockdown demand by understanding the factors influencing bike-sharing needs. A consulting firm will analyze a dataset of daily bike demands to create a model that predicts demand based on various factors. This model will guide business strategies to meet customer expectations and understand new market dynamics.
 
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The client should focus on Saturdays just as much as they focus on Weekdays.
+- Special attention should be paid to the month of September, as it seems to be the only month that positively and significantly affects the number of users. Conversely, the month of July could benefit from promotional marketing to counter the decrease in demand.
+- The business is growing positively after the COVID-19 pandemic, as seen in the rise of customer usage.
+- Rainy and/or snowy days have relatively less demand, which could be used for maintainence services.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy - version 1.24.3
+- pandas - version 2.0.3
+- matplotlib - version 3.7.2
+- seaborn - version 0.12.2
+- scikit-learn - version 1.3.0
+- statsmodels - version 0.14.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
